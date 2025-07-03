@@ -5,7 +5,7 @@ Se você gosta de **Star Wars**, **dados bem organizados**, **sistemas que funci
 
 ---
 
-✨ Biografia Fictícia: Mestre Max, Guardião da Lógica Relacional
+✨ Biografia: Mestre Max, Guardião da Lógica Relacional
 🧙‍♂️ Nome Jedi: Mestre Max 📍 Setor galáctico: Minas Gerais, Brasil 📚 Especialidade: Treinar jovens padawans na arte ancestral dos bancos de dados relacionais 🔗 Sabre de luz: Azul, com chip MySQL embutido 🧠 Habilidade especial: Executar JOIN com precisão cirúrgica e transformar sistemas caóticos em tabelas normalizadas
 
 > “O lado negro da desorganização jamais vencerá enquanto houver relacionamentos bem definidos entre suas entidades...” — Mestre Max
