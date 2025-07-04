@@ -1,4 +1,4 @@
-# 🛸 Nerdvirtual: Repositório Intergaláctico de Dados 📦✨
+# 🛸 Nerdvirtual: Repositório Intergaláctico de Dados 📦
 
 Bem-vindo ao **CellShop**, o repositório que une o poder da tecnologia com a força do universo Nerd e Geek!  
 Se você gosta de **Star Wars**, **dados bem organizados**, **sistemas que funcionam como sabres de luz** e **consultas SQL tão afiadas quanto a lâmina de um lightsaber**, você está no lugar certo. 🚀⚔️📊
